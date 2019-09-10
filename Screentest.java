@@ -25,4 +25,8 @@ public class Screentest {
 		System.out.println("added new git ");
 
 	}
+	private void method2() {
+		System.out.println("hi this second update");
+
+	}
 }
