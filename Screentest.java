@@ -21,4 +21,8 @@ public class Screentest {
 		File f2= new File("D:\\testimg.jpg");
 		Files.copy(f1, f2);
 	}
+	private void method1() {
+		System.out.println("added new git ");
+
+	}
 }
